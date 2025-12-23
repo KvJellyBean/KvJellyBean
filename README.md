@@ -46,6 +46,6 @@ Hi, there👋! I'm Kevin a.k.a. KvJellyBean.<br>I'm a passionate Developer with 
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KvJellyBean&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KvJellyBean&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KvJellyBean&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=KvJellyBean&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=KvJellyBean&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KvJellyBean&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
