@@ -1,6 +1,5 @@
 # 💫 About Me:
 Hi, there👋! I'm Kevin a.k.a. KvJellyBean.<br>I'm a passionate Developer with a keen interest in continuously learning and mastering new technologies.<br><br>🚀 What I'm Up To:<br>
-🎓 Bachelor's Degree in Informatics Engineering.<br>
 💻 Deepening My Knowledge in Web Development & Back End Engineering with the latest frameworks and tools.<br>
 📚 Exploring Emerging Technologies to build impactful and efficient solutions.
 
